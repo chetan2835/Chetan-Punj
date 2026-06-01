@@ -55,6 +55,30 @@ const ExperienceCard = ({
 const ExperienceSection = () => {
   const experiences = [
     {
+      icon: Network,
+      title: "IPR & Tech Transfer Coordinator",
+      company: "IEDC & IIC Student Council @ Anand-ICE",
+      period: "2025 - Present",
+      description:
+        "Coordinated IPR awareness initiatives and entrepreneurship programs. Collaborated with experts to foster a culture of innovation and startups."
+    },
+    {
+      icon: Rocket,
+      title: "Entrepreneurship Chair",
+      company: "YI Student Council @ Anand-ICE",
+      period: "06/2025 - Present",
+      description:
+        "Led entrepreneurship initiatives, organizing startup-focused events and industry interactions to promote innovation and business awareness."
+    },
+    {
+      icon: Bot,
+      title: "Robotics Club Captain & Council Member",
+      company: "Student Council @ Anand-ICE",
+      period: "11/2024 - 02/2026",
+      description:
+        "Led robotics initiatives, coordinated technical events, and mentored students in embedded systems, driving participation in project-based learning."
+    },
+    {
       icon: Code2,
       title: "MERN Stack Developer",
       company: "Self Learning & Projects",
@@ -62,7 +86,6 @@ const ExperienceSection = () => {
       description:
         "Building full-stack applications using React, Node.js, Express, and MongoDB with focus on clean UI, performance, and scalability."
     },
-
     {
       icon: Cpu,
       title: "IoT & Arduino Developer",
@@ -71,7 +94,6 @@ const ExperienceSection = () => {
       description:
         "Worked on automation and robotics projects including Arduino, ESP32, and sensor-based systems with real-time data handling."
     },
-
     {
       icon: Bot,
       title: "AI & Computer Vision Enthusiast",
@@ -80,7 +102,6 @@ const ExperienceSection = () => {
       description:
         "Developing smart systems like face-recognition attendance and gate-pass solutions integrating AI, databases, and automation."
     },
-
     {
       icon: Layers,
       title: "UI/UX Enthusiast",
@@ -89,7 +110,6 @@ const ExperienceSection = () => {
       description:
         "Designing modern, intuitive, and user-focused interfaces with emphasis on accessibility, responsiveness, and experience."
     },
-
     {
       icon: GraduationCap,
       title: "B.Tech CSE Student",
@@ -98,7 +118,6 @@ const ExperienceSection = () => {
       description:
         "Actively learning core computer science fundamentals while building real-world projects, exploring development & innovation."
     },
-
     {
       icon: Rocket,
       title: "Hackathon Participant & Finalist",
@@ -107,16 +126,14 @@ const ExperienceSection = () => {
       description:
         "Participated in major hackathons and innovation events, presenting solutions focused on AI, automation, and digital transformation."
     },
-
-    {
-      icon: Shield,
-      title: "IEDC Core Team Member",
-      company: "Innovation & Entrepreneurship Development Cell",
-      period: "2024 - Present",
-      description:
-        "Contributing to innovation activities, project execution, mentorship support, and tech-driven initiatives within the institution."
-    },
-
+    // {
+    //   icon: Shield,
+    //   title: "IEDC Core Team Member",
+    //   company: "Innovation & Entrepreneurship Development Cell",
+    //   period: "2024 - 2025",
+    //   description:
+    //     "Contributing to innovation activities, project execution, mentorship support, and tech-driven initiatives within the institution."
+    // },
     {
       icon: Globe,
       title: "LetsUpgrade Student Ambassador",
@@ -125,7 +142,6 @@ const ExperienceSection = () => {
       description:
         "Promoted tech learning initiatives, engaged with developer communities, and supported peers in technical growth."
     },
-
     {
       icon: Database,
       title: "Backend & Database Learner",
@@ -134,7 +150,6 @@ const ExperienceSection = () => {
       description:
         "Working with MySQL and MongoDB to design structured and efficient databases for scalable applications."
     },
-
     {
       icon: Zap,
       title: "JavaScript Developer",

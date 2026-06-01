@@ -56,11 +56,11 @@ const profile = {
     title: 'Full-Stack Developer | AI & Cloud Enthusiast |
             Tech Community Leader',
     skills: [
-        'HTML', 'CSS', 'JavaScript', 'TypeScript',
-        'React', 'Next.js', 'Node.js', 'Express.js',
-        'MySQL', 'MongoDB', 'SQLite', 'Tkinter', 'PIL',
-        'Python', 'Face Recognition', 'Machine Learning', 'OpenCV',
-        'Git', 'GitHub', 'Linux', 'REST APIs', 'Nodemailer'
+        'Python', 'C/C++', 'JavaScript', 'TypeScript',
+        'React', 'Tailwind CSS', 'Node.js', 'Express.js', 
+        'REST APIs', 'MySQL', 'MongoDB', 'PostgreSQL',
+        'Supabase', 'SQL', 'Git', 'GitHub', 'Postman',
+        'Arduino', 'ESP32',"ESP8266" , 'IoT', 'AI', 'Web Development'
     ],
     hardWorker: true,
     quickLearner: true,
